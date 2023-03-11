@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Dong thu 1 May tinh 2
+=======
+Dong thu 1 may tinh 2
+
+Dong thu 2 may tinh 1
+>>>>>>> 0477c2193ca0a1f881bc5b34ab676a3a2e2aeffd
